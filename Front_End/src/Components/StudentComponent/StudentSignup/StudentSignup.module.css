@@ -1,0 +1,46 @@
+body {
+  background-color: ecedf3;
+}
+
+/* -------------------------------------------------------------- */
+#loginbox {
+  position: relative;
+  max-width: 500px;
+  padding: 20px;
+  margin-left: 60%;
+  border-radius: 5px;
+  padding-top: 2%;
+}
+
+#background1 {
+  background-image: url("/src/images/2.png");
+  background-size: cover;
+  background-position: center fixed;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  background-position: fixed;
+}
+
+#form {
+  background-color: transparent;
+  border: 0cm transparent;
+  margin-top: 12%;
+}
+
+#form1 {
+  background-color: transparent;
+  border: 0cm transparent;
+  margin-left: 25px;
+  opacity: .8;
+}
+
+#loginButton {
+  color: white;
+  color: white;
+  text-decoration: none;
+}
+
+/* #loginbox {
+  margin-bottom: 20px;
+} */

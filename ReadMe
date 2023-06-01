@@ -1,0 +1,11 @@
+Process to run the app
+1. Open Back_end in vsCode 
+2. Click on run Button
+
+Process to run FrontEnd
+1. Open Front_End folder in vs code
+2. In terminal install node modules using "npm install" command
+3. To run the app give "npm start" command
+
+To view PPT
+click here -> https://my.visme.co/view/pv49zgvw-voql9kjyopw62x1w
